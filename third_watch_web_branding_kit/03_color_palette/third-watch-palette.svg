@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 900" role="img" aria-label="Third Watch Studios color palette">
+<rect width="1800" height="900" fill="#071419"/>
+<rect x="32" y="32" width="1736" height="836" fill="none" stroke="#3B3327" stroke-width="2"/>
+<text x="90" y="122" fill="#B8B2A6" font-family="Georgia, serif" font-size="48" letter-spacing="3">THIRD WATCH STUDIOS</text>
+<text x="90" y="174" fill="#D69B4B" font-family="Arial, sans-serif" font-size="26" letter-spacing="2">WEB / SPLASH PAGE COLOR PALETTE</text>
+<rect x="90" y="290" width="290" height="280" fill="#071419" stroke="#5B5144" stroke-width="2"/>
+<text x="90" y="622" fill="#B8B2A6" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="1">DEEP SEA NAVY</text>
+<text x="90" y="663" fill="#D69B4B" font-family="Arial, sans-serif" font-size="28">#071419</text>
+<rect x="415" y="290" width="290" height="280" fill="#111416" stroke="#5B5144" stroke-width="2"/>
+<text x="415" y="622" fill="#B8B2A6" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="1">CHARCOAL</text>
+<text x="415" y="663" fill="#D69B4B" font-family="Arial, sans-serif" font-size="28">#111416</text>
+<rect x="740" y="290" width="290" height="280" fill="#4E585B" stroke="#5B5144" stroke-width="2"/>
+<text x="740" y="622" fill="#B8B2A6" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="1">STORM GRAY</text>
+<text x="740" y="663" fill="#D69B4B" font-family="Arial, sans-serif" font-size="28">#4E585B</text>
+<rect x="1065" y="290" width="290" height="280" fill="#B8B2A6" stroke="#5B5144" stroke-width="2"/>
+<text x="1065" y="622" fill="#B8B2A6" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="1">FOG STONE</text>
+<text x="1065" y="663" fill="#D69B4B" font-family="Arial, sans-serif" font-size="28">#B8B2A6</text>
+<rect x="1390" y="290" width="290" height="280" fill="#D69B4B" stroke="#5B5144" stroke-width="2"/>
+<text x="1390" y="622" fill="#B8B2A6" font-family="Arial, sans-serif" font-size="20" font-weight="700" letter-spacing="1">WARM AMBER BEACON</text>
+<text x="1390" y="663" fill="#D69B4B" font-family="Arial, sans-serif" font-size="28">#D69B4B</text>
+</svg>

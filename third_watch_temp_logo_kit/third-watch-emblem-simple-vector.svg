@@ -1,0 +1,25 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" role="img" aria-label="Third Watch Studios temporary vector emblem">
+  <defs>
+    <filter id="amberGlow" x="-50%" y="-50%" width="200%" height="200%">
+      <feGaussianBlur stdDeviation="5" result="blur"/>
+      <feMerge><feMergeNode in="blur"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+  <g fill="none" stroke="#D69B4B" stroke-width="6" stroke-linecap="round" opacity="0.95" filter="url(#amberGlow)">
+    <circle cx="256" cy="224" r="150" stroke-dasharray="790 95" stroke-dashoffset="45"/>
+  </g>
+  <g fill="#D69B4B" opacity="0.92">
+    <circle cx="136" cy="268" r="4"/><circle cx="128" cy="286" r="2.8"/><circle cx="369" cy="107" r="3.2"/>
+  </g>
+  <g>
+    <path d="M215 350 L226 182 L258 145 L285 164 L298 350 L262 365 Z" fill="#A7A094"/>
+    <path d="M258 145 L285 164 L298 350 L266 358 L262 173 Z" fill="#2C3231" opacity="0.82"/>
+    <path d="M235 346 C209 365 181 370 145 367 C180 354 192 336 215 334 Z" fill="#9A9488"/>
+    <path d="M251 357 C286 352 320 365 362 370 C324 374 289 371 256 365 Z" fill="#8D877D"/>
+    <path d="M209 357 C178 381 140 389 90 385 C139 376 166 356 195 340 Z" fill="#8F897F"/>
+    <path d="M255 368 C230 385 194 391 154 388 C187 380 210 368 235 354 Z" fill="#6E6A63" opacity="0.8"/>
+    <path d="M244 210 L255 205 L255 246 L241 248 Z" fill="#D99A3D"/>
+    <path d="M277 218 L288 219 L288 249 L277 249 Z" fill="#D99A3D"/>
+    <path d="M232 324 C244 315 248 304 253 291" fill="none" stroke="#2C3231" stroke-width="5" stroke-linecap="round"/>
+  </g>
+</svg>

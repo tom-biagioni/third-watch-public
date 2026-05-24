@@ -1,0 +1,44 @@
+{
+  "brand": "Third Watch Studios",
+  "palette": {
+    "deep-sea-navy": {
+      "name": "Deep Sea Navy",
+      "hex": "#071419",
+      "rgb": "7, 20, 25",
+      "use": "Primary page background, hero sections, dark UI fields"
+    },
+    "charcoal": {
+      "name": "Charcoal",
+      "hex": "#111416",
+      "rgb": "17, 20, 22",
+      "use": "Secondary background, cards, footer panels"
+    },
+    "storm-gray": {
+      "name": "Storm Gray",
+      "hex": "#4E585B",
+      "rgb": "78, 88, 91",
+      "use": "Muted UI, borders, secondary text, stone shadows"
+    },
+    "fog-stone": {
+      "name": "Fog Stone",
+      "hex": "#B8B2A6",
+      "rgb": "184, 178, 166",
+      "use": "Primary text, tower highlights, neutral surfaces"
+    },
+    "warm-amber-beacon": {
+      "name": "Warm Amber Beacon",
+      "hex": "#D69B4B",
+      "rgb": "214, 155, 75",
+      "use": "Aura, window, dividers, links, active states"
+    }
+  },
+  "typography": {
+    "display_direction": "Elegant cinematic serif, wide tracking, restrained contrast",
+    "body_direction": "Clean modern sans-serif for legibility",
+    "note": "Fonts are not included. Use licensed fonts or replace the CSS stacks."
+  },
+  "logo_notes": {
+    "core_identity": "tower + amber window + circular watch-cycle aura + wordmark",
+    "short_term_note": "Raster assets are usable for mockups and web testing. Commission/redraw final vector art for production, print, and trademark use."
+  }
+}

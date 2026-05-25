@@ -31,13 +31,13 @@ body::before {
 .panel {
   width: min(940px, 100%);
   text-align: center;
-  padding: clamp(20px, 3vw, 40px);
+  padding: clamp(18px, 2.5vw, 34px);
   border: 1px solid var(--tws-border);
   background: linear-gradient(180deg, rgba(17,20,22,0.54), rgba(7,20,25,0.32));
   box-shadow: 0 28px 120px rgba(0,0,0,0.45), inset 0 1px 0 rgba(184,178,166,0.04);
   backdrop-filter: blur(6px);
 }
-.logo { width: min(560px, 90%); height: auto; display: block; margin: 0 auto clamp(18px, 2.4vw, 30px); filter: drop-shadow(var(--tws-shadow-amber)); }
+.logo { width: min(360px, 80%); height: auto; display: block; margin: 0 auto clamp(6px, 1.2vw, 12px); filter: drop-shadow(var(--tws-shadow-amber)); }
 .eyebrow {
   color: var(--tws-accent);
   text-transform: uppercase;

@@ -29,13 +29,13 @@ The core logo is the tower, the window, the circular aura, and the wordmark. The
 
 Use a dark, quiet splash page with the full logo centered, an amber divider, and short copy. Keep the page sparse. Let the logo and atmosphere do the work.
 
-Suggested headline:
+Current MVP headline:
 
-> Stories endure after midnight.
+> A guiding light to stranger shores.
 
-Suggested subcopy:
+Current MVP subcopy:
 
-> Third Watch Studios builds atmospheric narrative games about rescue, unstable worlds, and the human light that remains when impossible systems begin to fail.
+> Third Watch Studios makes atmospheric games about impossible places, old mysteries, bad ideas, and the trouble waiting past the familiar.
 
 ## Do
 

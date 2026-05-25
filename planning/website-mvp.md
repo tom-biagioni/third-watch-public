@@ -89,22 +89,22 @@ The MVP should be small and focused:
 Primary tagline:
 
 ```txt
-Stories endure after midnight.
+A guiding light to stranger shores.
 ```
 
 Short description:
 
 ```txt
-Third Watch Studios builds atmospheric narrative games about rescue, unstable worlds, and the human light that remains when impossible systems begin to fail.
+Third Watch Studios makes atmospheric games about impossible places, old mysteries, bad ideas, and the trouble waiting past the familiar.
 ```
 
 Metadata:
 
 ```txt
 Title: Third Watch Studios
-Description: Narrative games of enduring depth.
+Description: A guiding light to stranger shores. Atmospheric games about impossible places, old mysteries, bad ideas, and trouble beyond the familiar.
 Open graph title: Third Watch Studios
-Open graph description: Stories endure after midnight.
+Open graph description: Atmospheric games about impossible places, old mysteries, bad ideas, and the trouble waiting past the familiar.
 ```
 
 ## Open Decisions

@@ -2,22 +2,29 @@
 
 ## Short tagline options
 
-- Stories endure after midnight.
-- Narrative games of enduring depth.
-- We keep watch so stories can endure.
+- A guiding light to stranger shores.
+- Strange shores. Warm light.
+- A light beyond familiar shores.
+- Play at the edge of the dark.
 - Human warmth inside vast darkness.
-- Quiet worlds. Enduring stories.
+- Quiet worlds. Bright trouble.
+
+## Current splash page copy
+
+### MVP 2026-05
+
+Third Watch Studios makes atmospheric games about impossible places, old mysteries, bad ideas, and the trouble waiting past the familiar.
 
 ## Splash page hero copy
 
 ### Option A
-Third Watch Studios builds atmospheric narrative games about rescue, unstable worlds, and the human light that remains when impossible systems begin to fail.
+Third Watch Studios makes atmospheric games about impossible places, old mysteries, bad ideas, and the trouble waiting past the familiar.
 
 ### Option B
-We make story-driven games about people keeping watch at the edge of collapse - quiet, resilient, mysterious, and human.
+We make atmospheric games about strange places, bad ideas, old mysteries, and trouble worth crossing.
 
 ### Option C
-A narrative game studio focused on atmospheric worlds, systemic tension, and stories that endure after midnight.
+A small game studio drawn to atmospheric worlds, genre mischief, and a little light left on.
 
 ## Button labels
 
@@ -30,6 +37,6 @@ A narrative game studio focused on atmospheric worlds, systemic tension, and sto
 ## Metadata
 
 Title: Third Watch Studios
-Description: Narrative games of enduring depth.
+Description: A guiding light to stranger shores. Atmospheric games about impossible places, old mysteries, bad ideas, and trouble beyond the familiar.
 Open graph title: Third Watch Studios
-Open graph description: Stories endure after midnight.
+Open graph description: Atmospheric games about impossible places, old mysteries, bad ideas, and the trouble waiting past the familiar.
